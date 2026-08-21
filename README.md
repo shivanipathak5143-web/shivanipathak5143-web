@@ -6,7 +6,7 @@
 
 I'm a second-year B.Tech Computer Science student at AISSMS IOIT, Pune, passionate about building AI-powered full-stack applications that solve real problems. I love turning ideas into working products using the MERN stack, and I'm always exploring how AI can make everyday tools smarter.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivani-pathak-a5a009329/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivanipathak-a5a009329)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanipathak5143@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivanipathak5143-web)
 
@@ -19,15 +19,15 @@ I'm a second-year B.Tech Computer Science student at AISSMS IOIT, Pune, passiona
 - 🎓 Pursuing B.Tech in Computer Science at AISSMS IOIT, Pune (2024 — 2028)
 - 💻 Passionate about full-stack development with the MERN stack, Java, and Python
 - 🤖 Diving into AI/ML and finding ways to bring intelligent features into practical, everyday tools
+- 📊 Comfortable with data science workflows — EDA, scikit-learn, and Jupyter Notebook
 - 🏆 Completed hands-on internships in C/C++, Python, and Java Full Stack, along with IBM SkillsBuild's AI Fundamentals course
-- 🌱 Currently leveling up my Data Structures & Algorithms and system design skills
 - 📫 Let's connect: **shivanipathak5143@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -35,7 +35,7 @@ I'm a second-year B.Tech Computer Science student at AISSMS IOIT, Pune, passiona
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-**Technologies**
+
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -43,29 +43,36 @@ I'm a second-year B.Tech Computer Science student at AISSMS IOIT, Pune, passiona
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
+
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
 ---
 
 ## 🌟 Featured Projects
 
-### 🧠 [LeetTrack](https://github.com/shivanipathak5143-web/LeetTrack)
-AI-powered LeetCode tracking and DSA mentorship platform — problem logging, visual dashboards, streak/heatmap analytics, and an AI mentor chat (Groq API) for personalized DSA guidance.
+### 🧠 [LeetTrack](https://github.com/shivanipathak5143-web/leettrack)
+AI-powered LeetCode tracking and DSA mentorship platform — problem logging, visual dashboards, streak/heatmap analytics, and an AI mentor chat for personalized DSA guidance.
 `React` `Node.js` `Express` `MongoDB` `JWT`
 
-### 📄 [ResumeIQ](https://github.com/shivanipathak5143-web/ResumeIQ)
+### 📄 [ResumeIQ](https://github.com/shivanipathak5143-web/resumeiq)
 AI-powered career assistant that scores resumes against job descriptions, identifies keyword gaps, rewrites bullet points, simulates recruiter reviews, and generates AI cover letters.
-`React` `Node.js` `Express` `MongoDB` `Groq API (LLaMA 3)`
+`React` `Node.js` `Express` `MongoDB` `LLaMA 3`
 
-### 📚 [AI Learning Assistant](https://github.com/shivanipathak5143-web/AI-Learning-Assistant)
+### 📚 [AI Learning Assistant](https://github.com/shivanipathak5143-web/ai-learning-assistant)
 An AI-powered system that converts uploaded study materials into summaries, MCQs, and flashcards for efficient learning and self-assessment.
 `MongoDB` `Express.js` `React.js` `Node.js`
 
-### 🎙️ [TechMate AI](https://github.com/shivanipathak5143-web/Jarvis-Python)
+### 🎙️ [TechMate AI](https://github.com/shivanipathak5143-web/techmate-ai)
 A Python-based voice-controlled virtual assistant that automates tasks like opening files, launching apps, browsing websites, playing music, and performing system operations hands-free.
 `Python`
 
----
 
 ---
+
 
 <div align="center">
 
