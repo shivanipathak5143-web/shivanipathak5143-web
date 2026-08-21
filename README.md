@@ -76,6 +76,6 @@ A Python-based voice-controlled virtual assistant that automates tasks like open
 
 <div align="center">
 
-*Thanks for stopping by — always open to collaborating on interesting projects!*
+*Building, breaking, and learning — one project at a time.*
 
 </div>
