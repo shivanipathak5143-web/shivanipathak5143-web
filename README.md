@@ -16,12 +16,12 @@ I'm a second-year B.Tech Computer Science student at AISSMS IOIT, Pune, passiona
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in Computer Science, AISSMS IOIT, Pune (2024 — 2028)
-- 💻 Building full-stack apps with the MERN stack, Java, and Python
-- 🤖 Exploring AI/ML — especially applying LLMs (Groq API, LLaMA 3) to real-world tools
-- 🏆 Completed internships in C/C++, Python, and Java Full Stack, plus IBM SkillsBuild's AI Fundamentals course
-- 🌱 Currently sharpening my Data Structures & Algorithms and system design fundamentals
-- 📫 Reach me at **shivanipathak5143@gmail.com**
+- 🎓 Pursuing B.Tech in Computer Science at AISSMS IOIT, Pune (2024 — 2028)
+- 💻 Passionate about full-stack development with the MERN stack, Java, and Python
+- 🤖 Diving into AI/ML and finding ways to bring intelligent features into practical, everyday tools
+- 🏆 Completed hands-on internships in C/C++, Python, and Java Full Stack, along with IBM SkillsBuild's AI Fundamentals course
+- 🌱 Currently leveling up my Data Structures & Algorithms and system design skills
+- 📫 Let's connect: **shivanipathak5143@gmail.com**
 
 ---
 
