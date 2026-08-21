@@ -6,7 +6,7 @@
 
 I'm a second-year B.Tech Computer Science student at AISSMS IOIT, Pune, passionate about building AI-powered full-stack applications that solve real problems. I love turning ideas into working products using the MERN stack, and I'm always exploring how AI can make everyday tools smarter.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivanipathak-a5a009329)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivani-pathak-a5a009329/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanipathak5143@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivanipathak5143-web)
 
