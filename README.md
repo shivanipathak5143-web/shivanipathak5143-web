@@ -65,16 +65,6 @@ A Python-based voice-controlled virtual assistant that automates tasks like open
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivanipathak5143-web&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanipathak5143-web&layout=compact&hide_border=true)
-
-</div>
-
 ---
 
 <div align="center">
