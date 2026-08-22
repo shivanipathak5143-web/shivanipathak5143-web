@@ -25,7 +25,6 @@ I'm a second-year B.Tech Computer Science student at AISSMS IOIT, Pune, passiona
 
 ---
 
-## 🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
