@@ -69,12 +69,3 @@ An AI-powered system that converts uploaded study materials into summaries, MCQs
 A Python-based voice-controlled virtual assistant that automates tasks like opening files, launching apps, browsing websites, playing music, and performing system operations hands-free.
 `Python`
 
-
----
-
-
-<div align="center">
-
-*Building, breaking, and learning — one project at a time.*
-
-</div>
