@@ -51,5 +51,5 @@ I'm a second-year B.Tech Computer Science student at AISSMS IOIT, Pune, passiona
 
 ---
 
-`Python`
+
 
