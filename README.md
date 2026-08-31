@@ -51,21 +51,5 @@ I'm a second-year B.Tech Computer Science student at AISSMS IOIT, Pune, passiona
 
 ---
 
-## 🌟 Featured Projects
-
-### 🧠 [LeetTrack](https://github.com/shivanipathak5143-web/leettrack)
-AI-powered LeetCode tracking and DSA mentorship platform — problem logging, visual dashboards, streak/heatmap analytics, and an AI mentor chat for personalized DSA guidance.
-`React` `Node.js` `Express` `MongoDB` `JWT`
-
-### 📄 [ResumeIQ](https://github.com/shivanipathak5143-web/resumeiq)
-AI-powered career assistant that scores resumes against job descriptions, identifies keyword gaps, rewrites bullet points, simulates recruiter reviews, and generates AI cover letters.
-`React` `Node.js` `Express` `MongoDB` `LLaMA 3`
-
-### 📚 [AI Learning Assistant](https://github.com/shivanipathak5143-web/ai-learning-assistant)
-An AI-powered system that converts uploaded study materials into summaries, MCQs, and flashcards for efficient learning and self-assessment.
-`MongoDB` `Express.js` `React.js` `Node.js`
-
-### 🎙️ [TechMate AI](https://github.com/shivanipathak5143-web/techmate-ai)
-A Python-based voice-controlled virtual assistant that automates tasks like opening files, launching apps, browsing websites, playing music, and performing system operations hands-free.
 `Python`
 
