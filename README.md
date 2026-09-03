@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hi, I'm Shivani Pathak 👋
-
 ### Computer Engineering Student | Full-Stack MERN Developer | AI/ML Enthusiast
 
 I'm a second-year B.Tech Computer Science student at AISSMS IOIT, Pune, passionate about building AI-powered full-stack applications that solve real problems. I love turning ideas into working products using the MERN stack, and I'm always exploring how AI can make everyday tools smarter.
@@ -15,7 +14,6 @@ I'm a second-year B.Tech Computer Science student at AISSMS IOIT, Pune, passiona
 ---
 
 ## 🚀 About Me
-
 - 🎓 Pursuing B.Tech in Computer Science at AISSMS IOIT, Pune (2024 — 2028)
 - 💻 Passionate about full-stack development with the MERN stack, Java, and Python
 - 🤖 Diving into AI/ML and finding ways to bring intelligent features into practical, everyday tools
@@ -24,7 +22,6 @@ I'm a second-year B.Tech Computer Science student at AISSMS IOIT, Pune, passiona
 - 📫 Let's connect: **shivanipathak5143@gmail.com**
 
 ---
-
 
 ## 🛠️ Tech Stack
 
@@ -46,10 +43,7 @@ I'm a second-year B.Tech Computer Science student at AISSMS IOIT, Pune, passiona
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
-
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
+![Conda](https://img.shields.io/badge/Conda-44A833?style=flat&logo=anaconda&logoColor=white)
 
 ---
-
-
-
