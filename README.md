@@ -14,6 +14,7 @@ I'm a second-year B.Tech Computer Science student at AISSMS IOIT, Pune, passiona
 ---
 
 ## 🚀 About Me
+
 - 🎓 Pursuing B.Tech in Computer Science at AISSMS IOIT, Pune (2024 — 2028)
 - 💻 Passionate about full-stack development with the MERN stack, Java, and Python
 - 🤖 Diving into AI/ML and finding ways to bring intelligent features into practical, everyday tools
@@ -44,7 +45,7 @@ I'm a second-year B.Tech Computer Science student at AISSMS IOIT, Pune, passiona
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
 ![Conda](https://img.shields.io/badge/Conda-44A833?style=flat&logo=anaconda&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![DagsHub](https://img.shields.io/badge/DagsHub-FF7F50?style=for-the-badge&logo=dagshub&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![DagsHub](https://img.shields.io/badge/DagsHub-FF7F50?style=flat&logo=dagshub&logoColor=white)
 
 ---
