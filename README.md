@@ -3,7 +3,7 @@
 # Hi, I'm Shivani Pathak 👋
 ### Computer Engineering Student | Full-Stack MERN Developer | AI/ML Enthusiast
 
-I'm a second-year B.Tech Computer Science student at AISSMS IOIT, Pune, passionate about building AI-powered full-stack applications that solve real problems. I love turning ideas into working products using the MERN stack, and I'm always exploring how AI can make everyday tools smarter.
+I'm a third-year B.Tech Computer Science student at AISSMS IOIT, Pune, passionate about building AI-powered full-stack applications that solve real problems. I love turning ideas into working products using the MERN stack, and I'm always exploring how AI can make everyday tools smarter.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivanipathak-a5a009329)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanipathak5143@gmail.com)
@@ -19,7 +19,6 @@ I'm a second-year B.Tech Computer Science student at AISSMS IOIT, Pune, passiona
 - 💻 Passionate about full-stack development with the MERN stack, Java, and Python
 - 🤖 Diving into AI/ML and finding ways to bring intelligent features into practical, everyday tools
 - 📊 Comfortable with data science workflows — EDA, scikit-learn, and Jupyter Notebook
-- 📫 Let's connect: **shivanipathak5143@gmail.com**
 
 ---
 
