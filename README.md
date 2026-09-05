@@ -44,5 +44,7 @@ I'm a second-year B.Tech Computer Science student at AISSMS IOIT, Pune, passiona
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
 ![Conda](https://img.shields.io/badge/Conda-44A833?style=flat&logo=anaconda&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![DagsHub](https://img.shields.io/badge/DagsHub-FF7F50?style=for-the-badge&logo=dagshub&logoColor=white)
 
 ---
