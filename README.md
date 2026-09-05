@@ -18,7 +18,6 @@ I'm a second-year B.Tech Computer Science student at AISSMS IOIT, Pune, passiona
 - 💻 Passionate about full-stack development with the MERN stack, Java, and Python
 - 🤖 Diving into AI/ML and finding ways to bring intelligent features into practical, everyday tools
 - 📊 Comfortable with data science workflows — EDA, scikit-learn, and Jupyter Notebook
-- 🏆 Completed hands-on internships in C/C++, Python, and Java Full Stack, along with IBM SkillsBuild's AI Fundamentals course
 - 📫 Let's connect: **shivanipathak5143@gmail.com**
 
 ---
