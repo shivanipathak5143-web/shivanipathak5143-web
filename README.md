@@ -46,5 +46,5 @@ I'm a third-year B.Tech Computer Science student at AISSMS IOIT, Pune, passionat
 ![Conda](https://img.shields.io/badge/Conda-44A833?style=flat&logo=anaconda&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![DagsHub](https://img.shields.io/badge/DagsHub-FF7F50?style=flat&logo=dagshub&logoColor=white)
-
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ---
