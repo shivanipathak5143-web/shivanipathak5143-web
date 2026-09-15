@@ -53,5 +53,6 @@ I'm a third-year B.Tech Computer Science student at AISSMS IOIT, Pune, passionat
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA_3-0467DF?style=flat&logo=meta&logoColor=white)
 ---
