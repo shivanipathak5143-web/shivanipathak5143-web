@@ -177,6 +177,29 @@ I enjoy turning ideas into working products using the MERN stack, Python, and AI
 
 </div>
 
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/shivanipathak5143-web/shivanipathak5143-web/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/shivanipathak5143-web/shivanipathak5143-web/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/shivanipathak5143-web/shivanipathak5143-web/output/github-snake.svg"
+  />
+</picture>
+
+</div>
+
 
 ## 🌐 Let's Connect
 
@@ -202,8 +225,3 @@ I enjoy turning ideas into working products using the MERN stack, Python, and AI
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=FFFFFF&fontAlign=50&fontAlignY=65&theme=cobalt" width="100%" alt="Footer"/>
-
-</div>
