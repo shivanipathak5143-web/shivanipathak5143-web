@@ -80,8 +80,8 @@ I'm a third-year B.Tech Computer Science student at AISSMS IOIT, Pune, passionat
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivanipathak5143-web&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanipathak5143-web&layout=compact&langs_count=5&card_width=320&theme=dracula&hide_border=false" height="150" alt="Top languages" />
+  <img src="./profile/stats.svg" height="150" alt="GitHub stats" />
+  <img src="./profile/top-langs.svg" height="150" alt="Top languages" />
 </div>
 
 ---
