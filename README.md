@@ -91,5 +91,5 @@ I'm a third-year B.Tech Computer Science student at AISSMS IOIT, Pune, passionat
 I'm open to internships, collaborations, and conversations about full-stack and AI projects. Feel free to reach out on [LinkedIn](https://linkedin.com/in/shivanipathak-a5a009329) or [email](mailto:shivanipathak5143@gmail.com).
 
 <div align="center">
-  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt" alt="footer banner" />
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=FFFFFF&fontAlign=50&fontAlignY=65&theme=cobalt" alt="footer banner" />
 </div>
