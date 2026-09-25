@@ -24,22 +24,8 @@ I enjoy turning ideas into working products using the MERN stack, Python, and AI
 
 ---
 
-## 🚀 About Me
-
-- 🎓 Pursuing B.Tech in Computer Science at AISSMS IOIT, Pune (2024 — 2028)
-- 💻 Building full-stack applications using the MERN stack
-- 🤖 Exploring AI/ML and integrating intelligent features into practical applications
-- 🐍 Working with Python for machine learning and data science
-- 📊 Comfortable with EDA, Pandas, NumPy, Matplotlib, scikit-learn, and Jupyter
-- ☁️ Exploring MLOps, Docker, AWS, MLflow, and AI deployment
-- 💡 Interested in AI-powered products, LLM applications, and intelligent automation
-
----
-
 ## 🛠️ Tech Stack
-
 ### 💻 Languages
-
 <div align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C"/>
