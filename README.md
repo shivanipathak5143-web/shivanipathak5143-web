@@ -5,7 +5,6 @@
 ## Computer Engineering Student | Full-Stack MERN Developer | AI/ML Enthusiast
 
 I'm a third-year B.Tech Computer Science student at AISSMS IOIT, Pune, passionate about building AI-powered full-stack applications that solve real problems.
-
 I enjoy turning ideas into working products using the MERN stack, Python, and AI/ML technologies, while continuously exploring how intelligent systems can make everyday tools smarter.
 
 <p>
@@ -186,30 +185,4 @@ I enjoy turning ideas into working products using the MERN stack, Python, and AI
 
 </div>
 
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/shivanipathak-a5a009329">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn"/>
-</a>
-
-<img width="10"/>
-
-<a href="mailto:shivanipathak5143@gmail.com">
-<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail"/>
-</a>
-
-<img width="10"/>
-
-<a href="https://github.com/shivanipathak5143-web">
-<img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="35" alt="GitHub"/>
-</a>
-
----
-
-</div>
-
----
 
