@@ -1,5 +1,4 @@
 name: Generate Snake
-
 on:
   # Automatically update every day
   schedule:
