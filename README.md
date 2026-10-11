@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&text=Hi%2C%20I'm%20Shivani%20Pathak&fontSize=48&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&desc=Full-Stack%20MERN%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=18&descAlign=50&descAlignY=65&theme=cobalt" width="100%" alt="Header"/>
 
-## Computer Engineering Student | Full-Stack MERN Developer | AI/ML Enthusiast
+## Computer Engineering Student | Full-Stack Developer | AI/ML Enthusiast
 
 I'm a third-year B.Tech Computer Science student at AISSMS IOIT, Pune, passionate about building AI-powered full-stack applications that solve real problems.
 I enjoy turning ideas into working products using the MERN stack, Python, and AI/ML technologies, while continuously exploring how intelligent systems can make everyday tools smarter.
