@@ -79,15 +79,6 @@ I enjoy turning ideas into working products using the MERN stack, Python, and AI
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shivanipathak5143-web&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanipathak5143-web&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-</div>
-
 ---
 
 ## 🐍 Contribution Snake
