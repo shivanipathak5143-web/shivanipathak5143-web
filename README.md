@@ -1,4 +1,4 @@
-\<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&text=Hi%2C%20I'm%20Shivani%20Pathak&fontSize=48&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&desc=Full-Stack%20MERN%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=18&descAlign=50&descAlignY=65&theme=cobalt" width="100%" alt="Header"/>
 
