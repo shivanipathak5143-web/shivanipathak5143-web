@@ -1,4 +1,4 @@
-<div align="center">
+\<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&text=Hi%2C%20I'm%20Shivani%20Pathak&fontSize=48&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&desc=Full-Stack%20MERN%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=18&descAlign=50&descAlignY=65&theme=cobalt" width="100%" alt="Header"/>
 
@@ -78,6 +78,15 @@ I enjoy turning ideas into working products using the MERN stack, Python, and AI
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="Anaconda"/>
 
 ---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://raw.githubusercontent.com/shivanipathak5143-web/shivanipathak5143-web/main/profile/stats.svg" alt="GitHub Stats"/>
+<img height="180" src="https://raw.githubusercontent.com/shivanipathak5143-web/shivanipathak5143-web/main/profile/top-langs.svg" alt="Top Languages"/>
+
+</div>
 
 ---
 
